@@ -1,4 +1,4 @@
-package oop;
+package oop.encapsulation;
 
 public class Beer {
     // Adat (példányszintűek: adattag, példányváltozó, attribútum, mező)

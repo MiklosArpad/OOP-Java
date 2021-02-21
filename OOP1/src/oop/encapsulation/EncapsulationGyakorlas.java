@@ -1,6 +1,8 @@
-package oop;
+package oop.encapsulation;
 
-public class OOPGyakorlas {
+import oop.encapsulation.Beer;
+
+public class EncapsulationGyakorlas {
     public static void futtatas() {
         // Példányosítás: Oszátlyból objektumot hozok létre ...
         // Lépések:
